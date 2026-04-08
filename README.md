@@ -23,7 +23,7 @@ This makes the project useful for:
 - **Content and marketing workflows**
 
 ### Live Demo
-https://your-app-name.streamlit.app
+https://gen-aibusiness-assistant-kmiyaggwfh2vicrspkphmr.streamlit.app/
 
 ### Screenshots
 ![Smart GenAI Business Assistant UI](UI_view.png)
