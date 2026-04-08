@@ -1,0 +1,8 @@
+.env
+.history/
+.vscode/
+__pycache__/
+*.pyc
+.streamlit/secrets.toml
+.DS_Store
+Thumbs.db
